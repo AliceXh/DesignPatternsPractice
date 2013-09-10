@@ -1,0 +1,16 @@
+packages
+*.suo
+Alice.Storefront.Controllers/bin
+Alice.Storefront.Controllers/obj
+Alice.Storefront.Infrastructure/bin
+Alice.Storefront.Infrastructure/obj
+Alice.Storefront.Model/bin
+Alice.Storefront.Model/obj
+Alice.Storefront.Repository.NHibernate/bin
+Alice.Storefront.Repository.NHibernate/obj
+Alice.Storefront.Services/bin
+Alice.Storefront.Services/obj
+Alice.Storefront.Services.Cache/bin
+Alice.Storefront.Services.Cache/obj
+Alice.Storefront.UI.Web.MVC/bin
+Alice.Storefront.UI.Web.MVC/obj
