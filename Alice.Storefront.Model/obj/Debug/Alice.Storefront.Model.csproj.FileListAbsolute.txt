@@ -1,0 +1,5 @@
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Model\bin\Debug\Alice.Storefront.Model.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Model\bin\Debug\Alice.Storefront.Model.pdb
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Model\obj\Debug\Alice.Storefront.Model.csprojResolveAssemblyReference.cache
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Model\obj\Debug\Alice.Storefront.Model.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Model\obj\Debug\Alice.Storefront.Model.pdb

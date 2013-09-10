@@ -1,0 +1,4 @@
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services\bin\Debug\Alice.Storefront.Services.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services\bin\Debug\Alice.Storefront.Services.pdb
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services\obj\Debug\Alice.Storefront.Services.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services\obj\Debug\Alice.Storefront.Services.pdb

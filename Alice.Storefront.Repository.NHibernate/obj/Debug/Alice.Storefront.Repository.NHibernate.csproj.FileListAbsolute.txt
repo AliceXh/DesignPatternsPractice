@@ -1,0 +1,5 @@
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Repository.NHibernate\bin\Debug\Alice.Storefront.Repository.NHibernate.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Repository.NHibernate\bin\Debug\Alice.Storefront.Repository.NHibernate.pdb
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Repository.NHibernate\obj\Debug\Alice.Storefront.Repository.NHibernate.csprojResolveAssemblyReference.cache
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Repository.NHibernate\obj\Debug\Alice.Storefront.Repository.NHibernate.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Repository.NHibernate\obj\Debug\Alice.Storefront.Repository.NHibernate.pdb

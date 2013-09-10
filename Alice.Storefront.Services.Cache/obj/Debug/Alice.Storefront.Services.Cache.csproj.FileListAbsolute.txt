@@ -1,0 +1,4 @@
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services.Cache\bin\Debug\Alice.Storefront.Services.Cache.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services.Cache\bin\Debug\Alice.Storefront.Services.Cache.pdb
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services.Cache\obj\Debug\Alice.Storefront.Services.Cache.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Services.Cache\obj\Debug\Alice.Storefront.Services.Cache.pdb

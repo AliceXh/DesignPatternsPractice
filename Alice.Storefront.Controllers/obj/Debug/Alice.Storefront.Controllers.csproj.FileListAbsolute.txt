@@ -1,0 +1,5 @@
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Controllers\bin\Debug\Alice.Storefront.Controllers.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Controllers\bin\Debug\Alice.Storefront.Controllers.pdb
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Controllers\obj\Debug\Alice.Storefront.Controllers.csprojResolveAssemblyReference.cache
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Controllers\obj\Debug\Alice.Storefront.Controllers.dll
+D:\SolutionZone\Alice.Storefront\Alice.Storefront.Controllers\obj\Debug\Alice.Storefront.Controllers.pdb

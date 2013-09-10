@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Controllers", "Alice.Storefront.Controllers\Alice.Storefront.Controllers.csproj", "{2E64E80F-4526-42EB-AEE2-333135B55EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Infrastructure", "Alice.Storefront.Infrastructure\Alice.Storefront.Infrastructure.csproj", "{8282E53F-4E0F-40F1-84F9-C745F446A880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Model", "Alice.Storefront.Model\Alice.Storefront.Model.csproj", "{599DCE5F-953E-46D1-B656-E74D6DAD82C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Repository.NHibernate", "Alice.Storefront.Repository.NHibernate\Alice.Storefront.Repository.NHibernate.csproj", "{FD8311FB-D0BE-492A-86EF-94D02948EB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Services", "Alice.Storefront.Services\Alice.Storefront.Services.csproj", "{4B1BAFCB-25CA-41BB-99A5-1C97B45F2531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Services.Cache", "Alice.Storefront.Services.Cache\Alice.Storefront.Services.Cache.csproj", "{E00631BC-3D5E-4D27-91FF-6375D8998D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E64E80F-4526-42EB-AEE2-333135B55EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E64E80F-4526-42EB-AEE2-333135B55EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E64E80F-4526-42EB-AEE2-333135B55EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E64E80F-4526-42EB-AEE2-333135B55EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8282E53F-4E0F-40F1-84F9-C745F446A880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8282E53F-4E0F-40F1-84F9-C745F446A880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8282E53F-4E0F-40F1-84F9-C745F446A880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8282E53F-4E0F-40F1-84F9-C745F446A880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599DCE5F-953E-46D1-B656-E74D6DAD82C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599DCE5F-953E-46D1-B656-E74D6DAD82C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599DCE5F-953E-46D1-B656-E74D6DAD82C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599DCE5F-953E-46D1-B656-E74D6DAD82C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8311FB-D0BE-492A-86EF-94D02948EB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8311FB-D0BE-492A-86EF-94D02948EB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8311FB-D0BE-492A-86EF-94D02948EB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8311FB-D0BE-492A-86EF-94D02948EB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B1BAFCB-25CA-41BB-99A5-1C97B45F2531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1BAFCB-25CA-41BB-99A5-1C97B45F2531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1BAFCB-25CA-41BB-99A5-1C97B45F2531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1BAFCB-25CA-41BB-99A5-1C97B45F2531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
