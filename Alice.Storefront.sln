@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Services",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.Services.Cache", "Alice.Storefront.Services.Cache\Alice.Storefront.Services.Cache.csproj", "{E00631BC-3D5E-4D27-91FF-6375D8998D69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice.Storefront.UI.Web.MVC", "Alice.Storefront.UI.Web.MVC\Alice.Storefront.UI.Web.MVC.csproj", "{D2F1C670-E02F-48B0-88E9-00CA867D6C16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E00631BC-3D5E-4D27-91FF-6375D8998D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F1C670-E02F-48B0-88E9-00CA867D6C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F1C670-E02F-48B0-88E9-00CA867D6C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F1C670-E02F-48B0-88E9-00CA867D6C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F1C670-E02F-48B0-88E9-00CA867D6C16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
