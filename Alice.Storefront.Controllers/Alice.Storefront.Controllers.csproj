@@ -32,6 +32,10 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,6 +44,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Alice.Storefront.Infrastructure\Alice.Storefront.Infrastructure.csproj">
+      <Project>{8282e53f-4e0f-40f1-84f9-c745f446a880}</Project>
+      <Name>Alice.Storefront.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Alice.Storefront.Model\Alice.Storefront.Model.csproj">
+      <Project>{599dce5f-953e-46d1-b656-e74d6dad82c4}</Project>
+      <Name>Alice.Storefront.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Alice.Storefront.Services\Alice.Storefront.Services.csproj">
+      <Project>{4b1bafcb-25ca-41bb-99a5-1c97b45f2531}</Project>
+      <Name>Alice.Storefront.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
