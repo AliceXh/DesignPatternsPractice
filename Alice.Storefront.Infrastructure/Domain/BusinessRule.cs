@@ -24,5 +24,6 @@ namespace Alice.Storefront.Infrastructure.Domain
             get { return _rule; }
             set { _rule = value; }
         }
+        public string what = "is it?";
     }
 }
